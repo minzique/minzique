@@ -1,6 +1,6 @@
-# Minzique ✨
+## Minzique ✨
 
-I take things apart and sometimes put them back together. 
+I take things apart and sometimes put them back together 
 <!--
 **minzique/minzique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

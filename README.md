@@ -1,8 +1,8 @@
 ## Minzique ✨
 
-I take things apart and sometimes put them back together. Interested in reverse-engineering and application security. 
+I take things apart and sometimes put them back together. Interested in reverse-engineering and application security. I also write code when I absolutely have to.
 
-Most of my work is currently not public, you will find the few projects that I _have_ published here
+Most of my work isn’t public, but you’ll find a few projects here.
 
 <!--
 **minzique/minzique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
